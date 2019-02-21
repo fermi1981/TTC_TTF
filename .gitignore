@@ -1,0 +1,8 @@
+#fermi local
+makefile
+*.bak
+*.o
+*.dll
+*.lib
+*.exe
+fmy
